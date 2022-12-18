@@ -5,7 +5,7 @@ let d = document.getElementsByTagName("a")[2];
 b.addEventListener("click", (e) => {
   // color set when we click
 
-  b.style.color = "hsl(236, 100%, 87%)";
+  b.style.color = "white";
 
   //   innerHTML added
 
@@ -39,7 +39,7 @@ b.addEventListener("click", (e) => {
 c.addEventListener("click", (e) => {
   // color set when we click
 
-  c.style.color = "hsl(236, 100%, 87%)";
+  c.style.color = "white";
 
   //   innerHTML added
 
@@ -73,7 +73,7 @@ c.addEventListener("click", (e) => {
 d.addEventListener("click", (e) => {
   // color set when we click
 
-  d.style.color = "hsl(236, 100%, 87%)";
+  d.style.color = "white";
 
   //   innerHTML added
 
@@ -103,3 +103,5 @@ d.addEventListener("click", (e) => {
   f2.innerHTML = "7hrs";
   f3.innerHTML = "Last Month - 11hrs";
 });
+
+
